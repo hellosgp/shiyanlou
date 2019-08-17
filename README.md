@@ -1,2 +1,1 @@
-# shiyanlou
-Git课程测试
+git study day by day,u will love it
